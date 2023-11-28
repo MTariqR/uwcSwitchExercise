@@ -1,0 +1,14 @@
+C:\netprojects\SwitchExerciseSln\SwitchExercise\bin\Debug\net8.0\SwitchExercise.exe
+C:\netprojects\SwitchExerciseSln\SwitchExercise\bin\Debug\net8.0\SwitchExercise.deps.json
+C:\netprojects\SwitchExerciseSln\SwitchExercise\bin\Debug\net8.0\SwitchExercise.runtimeconfig.json
+C:\netprojects\SwitchExerciseSln\SwitchExercise\bin\Debug\net8.0\SwitchExercise.dll
+C:\netprojects\SwitchExerciseSln\SwitchExercise\bin\Debug\net8.0\SwitchExercise.pdb
+C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\SwitchExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\SwitchExercise.AssemblyInfoInputs.cache
+C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\SwitchExercise.AssemblyInfo.cs
+C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\SwitchExercise.csproj.CoreCompileInputs.cache
+C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\SwitchExercise.dll
+C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\refint\SwitchExercise.dll
+C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\SwitchExercise.pdb
+C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\SwitchExercise.genruntimeconfig.cache
+C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\ref\SwitchExercise.dll
