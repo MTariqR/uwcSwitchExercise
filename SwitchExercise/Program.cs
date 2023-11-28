@@ -10,7 +10,7 @@ namespace SwitchExercise
         {
             var switchOnOff = true;
 
-            /*while (switchOnOff)
+            while (switchOnOff)
             {
                 Console.WriteLine("Please enter a number to choose what exercise to run\n1: Reverse Text\n" +
                     "2: CamelCase\n3: Biggest Number\n4: Second Biggest Number\n5: Contains an Odd Number?\n" +
@@ -110,7 +110,7 @@ namespace SwitchExercise
                             break;
                         }
                 }
-            }*/
+            }
 
             Console.WriteLine(Words.RemoveVowel("Hello World"));
 
