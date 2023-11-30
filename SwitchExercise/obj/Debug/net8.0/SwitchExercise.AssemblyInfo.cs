@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwitchExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b7639382188e43dd3cd3092b320e1c8ace8ae52")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwitchExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwitchExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

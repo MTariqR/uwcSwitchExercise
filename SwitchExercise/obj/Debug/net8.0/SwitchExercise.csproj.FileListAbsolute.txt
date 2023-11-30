@@ -12,3 +12,4 @@ C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\refint\SwitchEx
 C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\SwitchExercise.pdb
 C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\SwitchExercise.genruntimeconfig.cache
 C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\ref\SwitchExercise.dll
+C:\netprojects\SwitchExerciseSln\SwitchExercise\obj\Debug\net8.0\SwitchExercise.sourcelink.json

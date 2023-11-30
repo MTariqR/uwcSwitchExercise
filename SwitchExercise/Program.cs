@@ -109,11 +109,13 @@ namespace SwitchExercise
                             Console.WriteLine("Invalid Selection\nPlease try again.\n");
                             break;
                         }
+
                 }
+
             }
 
-            Console.WriteLine(Words.RemoveVowel("Hello World"));
-
         }
+
     }
+
 }
